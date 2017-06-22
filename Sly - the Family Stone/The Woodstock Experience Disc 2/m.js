@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 M'Lady [_][Live].mp3";		
+f[2]	= "02 Sing a Simple Song [_][Live].mp3";		
+f[3]	= "03 You Can Make It If You Try [_][Live].mp3";		
+f[4]	= "04 Everyday People [_][Live].mp3";		
+f[5]	= "05 Dance to the Music [_][Live].mp3";		
+f[6]	= "06 Medley- Music Love-Higher [_][Live].mp3";		
+f[7]	= "07 I Want to Take You Higher [_][Live].mp3";		
+f[8]	= "08 Love City [_][Live].mp3";		
+f[9]	= "09 Stand [_][Live].mp3";		
